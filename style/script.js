@@ -1,12 +1,12 @@
 const PHRASES = [
-  "Dr.Gifter",
-  "I Love You Dr.Gifter",
-  "Dr.Gifter ❤️❤️❤️",
-  "Valentine vui vẻ ❤️",
-  "Có em, mọi thứ đều trở nên kỳ diệu 🌙 💖",
-  "Valentine ấm áp và bình yên nha 💖",
-  "Chúc em luôn cười thật tươi 🌟💖",
-  "Valentine ngọt ngào như một bản nhạc 🎶💖"
+  "Yêu ngọc nhứt 😤",
+  "Ngọc có thương bo hong ạ 🥺",
+  "Ngọc bếu cute 😡😡",
+  "Ngọc em béee",
+  "Có ngọc, mọi thứ đều trở nên kỳ diệu 🌙 💖",
+  "Bên em thật ấm áp và bình yên 💖",
+  "Chúc ngọc luôn cười thật tươi 🌟💖",
+  "Anh yêu ngọc - thế giới của anh"
 ];
 
 const scene = document.getElementById("scene");
